@@ -1,1 +1,1 @@
-# react-crud
+# AIMCrud - React.js + Express Backend
